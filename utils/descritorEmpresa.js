@@ -21,7 +21,7 @@ export default class Descritor {
             console.log("CPF:", funcionario.cpf)
 
             console.log("Rua:", funcionario.endereco.rua, " Bairro:", funcionario.endereco.bairro, " Cidade:", funcionario.endereco.cidade, " numero:", funcionario.endereco.numero)
-            console.log("=)")
+            // (@^▽^@)ノ
         }
 
     }
